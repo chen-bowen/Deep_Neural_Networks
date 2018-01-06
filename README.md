@@ -1,5 +1,3 @@
 # Deep-Neural-Networks
 
-This project handout could be found here. http://www.cs.toronto.edu/~guerzhoy/411/proj2/
-
-In this project, the MINST dataset and actor faces dataset were used.
+I would like to thank my collaborator, Yuan Yao, for his strong dedication and intelligence to make this project a great one.
