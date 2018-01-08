@@ -10,7 +10,7 @@ I would like to thank my collaborator, Yuan Yao, for his strong dedication and i
 
 ## Problems 
 
-The specific instructions of this project could be found in the [!instructions link](http://www.cs.toronto.edu/~guerzhoy/411/proj2/). In this project, we used the classic MINST handwritten digits dataset and the facescrub dataset to explore the following aspects of deep neural networks
+The specific instructions of this project could be found in the [instructions link](http://www.cs.toronto.edu/~guerzhoy/411/proj2/). In this project, we used the classic MINST handwritten digits dataset and the facescrub dataset to explore the following aspects of deep neural networks
 
 1. classify which class a handwritten digit belongs to using a single layer neural network
 2. classify which actor is in the image given a image data
