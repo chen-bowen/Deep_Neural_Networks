@@ -70,7 +70,9 @@ The learning curve is shown in the following
 
 ### AlexNet and Mini-Batch Training
 
+AlexNet significantly improves the accuracy of the 6-actor classifcation problem, boosting the accuracy up to **96.11%** on the test set. By using mini-batch training, the  The learning curve with mini-batch training is shown below
 
+[![Capture.png](https://s14.postimg.org/usabqn5ox/Capture.png)](https://postimg.org/image/5m9djt4el/)
 
 
 
