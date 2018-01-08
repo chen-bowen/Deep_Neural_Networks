@@ -23,7 +23,7 @@ The [!FaceScrub](http://vintage.winklerbros.net/facescrub.html) Dataset is downl
 
 The MINST dataset is directly read from the provided .mat file in this repository. The data looks like the following after preprocessiing.
 
-[![Capture.png](https://s14.postimg.org/549mpxmsh/Capture.png)](https://postimg.org/image/cx0ahwsrh/)
+[![Capture.png](https://s14.postimg.org/jbzbf3f29/Capture.png)](https://postimg.org/image/5iayq1mgt/)
 
 The specific report of this project could be found in the [deepnn.py](./deepnn.py) file in this repository.
 
